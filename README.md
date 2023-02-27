@@ -28,7 +28,7 @@ The following image demonstrates the application appearance:
 
 ## Link to the website
 
-https://xybai0103.github.io/module3_challenge_javascript-password-generator/
+https://xybai0103.github.io/javascript-password-generator/
 
 ## Credits
 
